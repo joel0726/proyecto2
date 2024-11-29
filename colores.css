@@ -1,0 +1,77 @@
+:root {
+    --primary-100: #4355f5; 
+
+
+ }
+
+ :root {
+    --primary-102: #000000; 
+
+
+ }
+ 
+ :root {
+    --primary-101: #0004ff; 
+ }
+
+
+
+ :root {
+    --primary-103: #000000; 
+
+
+ }
+
+ :root {
+    --primary-104: #b6d337fb; 
+
+
+ }
+
+ .azulfuerte {
+     color: var(--primary-100); 
+ }
+
+ .color-primary-101 {
+    color: var(--primary-101); 
+}
+
+.color-primary-102 {
+    color: var(--primary-102); 
+}
+.color-primary-103 {
+    color: var(--primary-103); 
+}
+
+.color-primary-104 {
+    color: var(--primary-104); 
+}
+a:link {
+    color: rgb(119, 0, 255);
+  }
+  
+  a:visited {
+    color: rgb(255, 255, 255);
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .neon {
+    text-align: center; 
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+    font-size: 60px; 
+    color: #ffffff; 
+    text-shadow: 10px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
+    }
+
+  .neon1 {
+    text-align: left; 
+      font-family: Arial; 
+      font-size: 20px; 
+      COLOR: #1278BF; 
+      text-shadow: 0px 0px 9px #508AD3;
+      }
+  
